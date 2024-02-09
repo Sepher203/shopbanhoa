@@ -1,0 +1,118 @@
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.dll.config
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.pdb
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.exe
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.exe.config
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.rsp
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.exe
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.exe.config
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.rsp
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.AppContext.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Collections.Immutable.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Console.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Globalization.Calendars.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.Compression.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.FileSystem.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Net.Http.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Net.Sockets.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Reflection.Metadata.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.ValueTuple.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XPath.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.exe
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.exe.config
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.rsp
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\VBCSCompiler.exe
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\VBCSCompiler.exe.config
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.AssemblyReference.cache
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.CoreCompileInputs.cache
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.CopyComplete
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.dll
+C:\tkwnc_c#\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.pdb
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.dll.config
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\QuanLyShopHoa.pdb
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.exe
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.exe.config
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csc.rsp
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.exe
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.exe.config
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\csi.rsp
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.AppContext.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Collections.Immutable.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Console.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Globalization.Calendars.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.Compression.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.FileSystem.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Net.Http.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Net.Sockets.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Reflection.Metadata.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.ValueTuple.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XPath.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.exe
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.exe.config
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\vbc.rsp
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\VBCSCompiler.exe
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\roslyn\VBCSCompiler.exe.config
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.AssemblyReference.cache
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.CoreCompileInputs.cache
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.CopyComplete
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.dll
+D:\ĐẠI HỌC\Năm 3\THWNC\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.pdb

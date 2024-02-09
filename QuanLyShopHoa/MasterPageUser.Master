@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageUser.Master.cs" Inherits="QuanLyShopHoa.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="css/iecss.css" />
+<![endif]-->
+        <script type="text/javascript" src="js/boxOver.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 50px;
+        }
+
+        .auto-style2 {
+            height: 137px;
+        }
+
+        .auto-style3 {
+            height: 137px;
+            width: 254px;
+        }
+
+        .auto-style4 {
+            height: 137px;
+            width: 634px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="main_container">
+            
+                <!-- end of menu tab -->            
+                <div class="left_content">
+                    <div class="title_box">Categories</div>
+                    <ul class="left_menu">
+                        <asp:Repeater ID="Repeater1" runat="server">
+                            <ItemTemplate>
+                                <li class='<%# Convert.ToInt32(Eval("autoincrement"))%2==0?"odd":"even" %>'>
+                                    <a href="DANHSACHSANPHAM.aspx?MaDM=<%# Eval("MaDM") %>"><%# Eval("TenDM") %></a>
+                                </li>
+                            </ItemTemplate>
+                        </asp:Repeater>
+                    </ul>
+                    </div>
+                <!-- end of left content -->
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+                <!-- end of center content -->
+                <div class="right_content">
+                    <div class="shopping_cart">
+                        <h>Đăng Nhập</h>
+                        <div class="form-group">
+                            <label for="username">Tên người dùng:</label>
+                            <input type="text" id="username" placeholder="Tên người dùng" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Mật khẩu:</label>
+                            <input type="password" id="password" placeholder="Mật khẩu" required>
+                        </div>
+                        <button onclick="login()">Đăng Nhập</button>
+                        
+                     </div>
+                 </div>
+        </div>
+    </form>
+</body>
+</html>
